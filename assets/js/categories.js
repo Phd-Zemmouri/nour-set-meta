@@ -46,7 +46,7 @@ const Months = [
 	'2022-12',
 ]
 
-const Datasets = ['NOUR-SET', 'NCCID', 'MASHHAD', 'MOSMED', 'SARI', 'ZENODO', 'MEDRXIV', 'SAO PAULO', 'COHEN', 'RADIOPEDIA']
+const Datasets = ['AFRI-COVID', 'NCCID', 'MASHHAD', 'MOSMED', 'SARI', 'ZENODO', 'MEDRXIV', 'SAO PAULO', 'COHEN', 'RADIOPEDIA']
 
 const Variants = [
 	{ name: 'SARS-CoV-2', month: '2020-01' },

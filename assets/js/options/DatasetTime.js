@@ -2,7 +2,7 @@ import { Datasets as colors } from '../colors'
 import { Months, Datasets } from '../categories'
 
 const data = {
-	'NOUR-SET': '2020-01 → 2022-12',
+	'AFRI-COVID': '2020-01 → 2022-12',
 	NCCID: '2020-05 → 2022-10',
 	MASHHAD: '2020-03 → 2021-01',
 	MOSMED: '2020-03 → 2020-05',
@@ -34,7 +34,7 @@ const DatasetTime = {
 		style: { fontWeight: 'bold', fontSize: '20px' },
 	},
 	credits: {
-		text: 'm-zemmouri',
+		text: '',
 		href: 'https://github.com/m-zemmouri/nour-set-meta',
 	},
 	xAxis: {

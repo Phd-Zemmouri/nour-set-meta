@@ -48,7 +48,7 @@ const Datasets = {
 	COHEN: '#941B0C',
 	MASHHAD: '#6A994E',
 	MOSMED: '#A7C957',
-	'NOUR-SET': '#386641',
+	'AFRI-COVID': '#386641',
 	NCCID: '#BC3908',
 }
 

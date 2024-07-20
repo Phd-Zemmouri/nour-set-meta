@@ -10,7 +10,7 @@ const data = {
 	COHEN: 661,
 	MASHHAD: 1000,
 	MOSMED: 1110,
-	'NOUR-SET': 2495,
+	'AFRI-COVID': 2495,
 	NCCID: 2980,
 }
 
@@ -44,7 +44,7 @@ const DatasetStudy = {
 		},
 	},
 	credits: {
-		text: 'm-zemmouri',
+		text: '',
 		href: 'https://github.com/m-zemmouri/nour-set-meta',
 	},
 	legend: {
